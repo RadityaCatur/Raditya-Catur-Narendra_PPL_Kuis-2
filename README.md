@@ -2,16 +2,16 @@
 
 1. register menggunakan email kampus
 
-![screenshots](1_register_menggunakan_email_kampus.jpeg)
+![screenshots](1.jpeg)
 
 2. register menggunakan format email salah
 
-![screenshots](2_register_menggunakan_format_email_salah.jpeg)
+![screenshots](2.jpeg)
 
 3. register menggunakan format username salah
 
-![screenshots](3_register_menggunakan_format_username_salah.jpeg)
+![screenshots](3.jpeg)
 
 4. register menggunakan username DAN email terdaftar
 
-![screenshots](4_register_menggunakan_username_DAN_email_terdaftar.jpeg)
+![screenshots](4.jpeg)
