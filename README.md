@@ -1,4 +1,4 @@
-# Screenshots:
+## Screenshots:
 
 1. register menggunakan email kampus
 
